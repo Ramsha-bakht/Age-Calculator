@@ -2,11 +2,11 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: "Poppins", sans-serif;
+    font-family: "poppins";
 }
 
 body {
-    background-color:gray;
+    background-color:rgb(167, 165, 165);
 }
 
 .container {

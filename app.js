@@ -9,7 +9,9 @@ const ageCalculate = () => {
     };
 
     const currentYear = today.getFullYear();
+
     const currentMonth = today.getMonth() + 1;
+
     const currentDate = today.getDate();
 
     if (isFutureDate(birthDetails, currentYear, currentMonth, currentDate)) {
